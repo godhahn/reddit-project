@@ -6,8 +6,8 @@ This repository documents the end-to-end workflow for training a Logistic Regres
 
 ### Best Model Performance
 
-**AUC = 0.7604** (5-fold cross-validation)  
-**Model Type:** Logistic Regression (L2 penalty, C = 10, `max_iter = 2500`)
+- **AUC = 0.7604** (5-fold cross-validation)  
+- **Model Type:** Logistic Regression (L2 penalty, C = 10, `max_iter = 2500`)
 
 ### Course: CS3244 Machine Learning
 
