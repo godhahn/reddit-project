@@ -1,4 +1,4 @@
-# Detecting Sarcasm in Reddit Comments using Machine Learning
+# Sarcastic Reddit Comments Detection
 
 ## Project Overview
 
