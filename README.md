@@ -1,4 +1,4 @@
-# Sarcastic Reddit Comments Detection
+# Sarcastic Reddit Comment Detection
 
 ## Project Overview
 
